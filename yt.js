@@ -7,8 +7,6 @@ function onYouTubeIframeAPIReady() {
 		videoId: '6kbKoStfAHQ',
 		playerVars: {
 			color: 'white'
-			//autoplay: '1'
-			//playlist: 'taJ60kskkns,FG0fTKAqZ5g'
 		},
 		events: {
 			onReady: initialize
